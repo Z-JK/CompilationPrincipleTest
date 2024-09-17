@@ -1110,7 +1110,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZWaSEKa7vMeZoo4IkMLN-78" value="INOCT" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ZWaSEKa7vMeZoo4IkMLN-78" value="INDEC" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="711" y="2470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZWaSEKa7vMeZoo4IkMLN-80" value="INBIN" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
