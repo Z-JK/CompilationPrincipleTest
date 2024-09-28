@@ -837,19 +837,6 @@
         <mxCell id="efxZgGYCrOohWAM89N6y-159" value="=" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1230.5" y="1790" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZWaSEKa7vMeZoo4IkMLN-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ZWaSEKa7vMeZoo4IkMLN-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="811" y="1169.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZWaSEKa7vMeZoo4IkMLN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ZWaSEKa7vMeZoo4IkMLN-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="811" y="1259.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZWaSEKa7vMeZoo4IkMLN-24" value="DONE" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="891" y="1129.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZWaSEKa7vMeZoo4IkMLN-25" value="DONE" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="750" y="1310" width="80" height="80" as="geometry" />
         </mxCell>
