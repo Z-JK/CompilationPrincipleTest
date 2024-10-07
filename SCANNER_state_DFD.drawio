@@ -3346,6 +3346,9 @@
         <mxCell id="FEyOfcQgIBdM4wXQqXVy-1" value="INLETTERR" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="481" y="7800" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FEyOfcQgIBdM4wXQqXVy-2" value="INILETTERB" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="479" y="6250" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
