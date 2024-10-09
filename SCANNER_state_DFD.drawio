@@ -3358,7 +3358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYOAx24rG2p77_KOH-Xi-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ASCII ch&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MYOAx24rG2p77_KOH-Xi-1">
+        <mxCell id="MYOAx24rG2p77_KOH-Xi-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ASCII ch - &quot;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MYOAx24rG2p77_KOH-Xi-1">
           <mxGeometry x="0.3901" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
